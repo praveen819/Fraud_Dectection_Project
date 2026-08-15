@@ -1,0 +1,13 @@
+{
+  "mean_score": 0.4379696814611035,
+  "std_score": 0.07027517909185434,
+  "p95_score": 0.5733721720499045,
+  "features": [
+    "amount",
+    "hour_of_day",
+    "txn_count_last_hour",
+    "distance_from_home_km",
+    "is_new_merchant"
+  ],
+  "contamination": 0.02
+}
